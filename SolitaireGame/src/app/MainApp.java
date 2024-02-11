@@ -14,7 +14,7 @@ public class MainApp {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Swing Application");
+        JFrame frame = new JFrame("Solitaire - Software Development Project");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
         frame.setVisible(true);
